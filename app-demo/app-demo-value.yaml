@@ -5,7 +5,7 @@
 replicaCount: 4
 
 image:
-  repository: app-helmchart-demo
+  repository: hoandinh0707/app-helmchart-demo
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1.41"
